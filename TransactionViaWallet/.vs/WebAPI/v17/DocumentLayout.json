@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\source\\repos\\webapi\\webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|solutionrelative:webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\source\\repos\\webapi\\webapi\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\source\\repos\\webapi\\webapi\\models\\walletmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\walletmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\source\\repos\\webapi\\webapi\\models\\transactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\transactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\source\\repos\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\source\\repos\\webapi\\webapi\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26380DC1-2465-4238-8627-E666D9C1A946}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T09:26:58.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\Startup.cs",
+              "RelativeToolTip": "WebApi\\Startup.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwFUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:25:28.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\Models\\TransactionModel.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\TransactionModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\Models\\TransactionModel.cs",
+              "RelativeToolTip": "WebApi\\Models\\TransactionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:49:04.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "WebApi\\services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\services\\JwtTokenService.cs",
+              "RelativeToolTip": "WebApi\\services\\JwtTokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:21:19.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\WalletController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\WalletController.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAiwCAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:59:43.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WalletModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\Models\\WalletModel.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\WalletModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebAPI\\WebApi\\Models\\WalletModel.cs",
+              "RelativeToolTip": "WebApi\\Models\\WalletModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:36:04.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
